@@ -58,7 +58,7 @@ then extended with a leakage-safe scikit-learn pipeline and a fairer model compa
 Requires Python 3.12 or newer.
 
 ```bash
-git clone https://github.com/<your-username>/support2-mortality-prediction.git
+git clone https://github.com/grhnunlu/support2-mortality-prediction.git
 cd support2-mortality-prediction
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
